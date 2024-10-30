@@ -1,10 +1,11 @@
 # DataCamp
 Learning DataScience at [DataCamp.com](https://app.datacamp.com/)
 
-![DataCamp logo](/inc/datacamp.svg)
+<img src="/inc/datacamp.svg" width=5%>
 
 ## Courses
 ✅ Understanding Data Science
+
 ❌ Introduction to Python
 
 ## Projects
