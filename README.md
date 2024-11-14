@@ -4,8 +4,9 @@ Learning DataScience at [DataCamp.com](https://app.datacamp.com/)
 ![DataCamp logo](/tools/datacamp.svg)
 
 ## Courses
-✅ Understanding Data Science
-❌ Introduction to Python
+✅ Understanding Data Science 
+✅ Introduction to Python
+❌ Python Intermediate
 
 ## Projects
-❌ Investigating Metflix Movies
+❌ Investigating Netflix Movies
