@@ -1,7 +1,7 @@
 # DataCamp
 Learning DataScience at [DataCamp.com](https://app.datacamp.com/)
 
-![DataCamp logo](/tools/datacamp.svg)
+[<img src="/inc/datacamp.svg" width=5%>](https://app.datacamp.com/)
 
 ## Courses
 ✅ Understanding Data Science 
