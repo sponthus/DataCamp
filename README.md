@@ -1,6 +1,9 @@
+<p align="center">
+<img src="/inc/datacamp.svg" width=20%>
+</p>
+
 # DataCamp
-Learning DataScience at [DataCamp.com](https://app.datacamp.com/)
-[<img src="/inc/datacamp.svg" width=5%>](https://app.datacamp.com/)
+Learning DataScience and Python at [DataCamp.com](https://app.datacamp.com/)
 
 ## Courses
 <br>✅ Understanding Data Science 
