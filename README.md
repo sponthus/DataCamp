@@ -4,6 +4,7 @@
 
 # DataCamp
 Learning DataScience and Python at [DataCamp.com](https://app.datacamp.com/)
+<br>You can find [cheat sheets](cheat_sheets) with notes on the concepts learnt, and traces of the projects available on the website.
 
 ## Courses
 <br>✅ Understanding Data Science 
