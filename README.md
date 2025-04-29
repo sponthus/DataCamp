@@ -14,3 +14,4 @@ Learning DataScience and Python at [DataCamp.com](https://app.datacamp.com/)
 
 ## Projects
 ✅ Investigating Netflix Movies <br>
+  Analyzing data about netflix movies, representing them graphically and doing statistics. <br>
